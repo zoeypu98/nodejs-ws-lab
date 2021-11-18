@@ -3,10 +3,7 @@
 
 import * as Phaser from "phaser";
 
-// interface ICoords {
-//   x: number;
-//   y: number;
-// }
+
 interface ICoords {
   [key: string]: {
     x: number;
